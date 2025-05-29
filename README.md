@@ -9,9 +9,7 @@ A basic text editor built with Python and Tkinter. This application allows you t
 - 🆕 Create new text files  
 - 📂 Open existing `.txt` files  
 - 💾 Save files  
-- ✂️ Cut, copy, paste, and select all  
-- 🌙 (Optional) Dark mode / theme support
-
+  
 ---
 
 ## 🧰 Technologies Used
